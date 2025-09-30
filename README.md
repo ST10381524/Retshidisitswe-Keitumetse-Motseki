@@ -1,2 +1,2 @@
 # Retshidisitswe-Keitumetse-Motseki
-PROG6121 Practical Assignment 1
+PROG6112 Practical Assignment 1
